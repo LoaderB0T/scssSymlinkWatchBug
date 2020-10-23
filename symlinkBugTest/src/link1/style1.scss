@@ -1,7 +1,0 @@
-// This imports the second file in a symlinked folder.
-@import "../link2/style2.scss";
-
-// Changes to this file are **sometimes** recompiled. In the case of this demo app, it does not seem to do so at all.
-body {
-	margin-top: 500px;
-}
